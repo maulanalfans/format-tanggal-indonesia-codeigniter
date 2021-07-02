@@ -1,4 +1,4 @@
-# format-tanggal-indonesia-codeigniter
+# Format Tanggal (Indonesia)
 Helpers untuk codeigniter format tanggal versi indonesia
 
 # Penggunaan
